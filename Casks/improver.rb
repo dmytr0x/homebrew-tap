@@ -1,6 +1,6 @@
 cask "improver" do
-  version "3.5.1"
-  sha256 "d39ef7eaaf6b8b5e166bf4941094ccea98f8038d57a6fb9652208066a41c3967"
+  version "3.5.2"
+  sha256 "9e568be5248c0c54dc8f4da4b3b819333f2f919050c303baa814cfb6349fe54f"
 
   url "https://github.com/dmytr0x/homebrew-tap/releases/download/v#{version}/Improver_#{version}_aarch64.dmg"
   name "Improver"
